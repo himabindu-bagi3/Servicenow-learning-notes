@@ -38,4 +38,6 @@ servicenow-learning-notes/
 │   └── client-scripts.md
 ├── projects/
 │   └── mini-project-1.md
-└── resources.md
+├── Resources/
+│   └── resource.md
+
