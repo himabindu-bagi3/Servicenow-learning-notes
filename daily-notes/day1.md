@@ -39,3 +39,35 @@
 - Bookmark your instance URL
 - Learn about the difference between Global and Scoped apps
 - Don’t worry if it looks overwhelming. Take one day at a time 🙂
+
+---
+
+## Create a Free ServiceNow Developer Account
+
+Go to developer.servicenow.com
+
+Click on Register (if new) or Sign In (if already registered)
+
+Fill in your basic details (email, name, etc.)
+
+Verify your email and activate your account
+
+Request Your Personal Developer Instance (PDI)
+
+After logging in, go to the "Manage" tab at the top right
+
+Click Request Instance → Choose the latest version (e.g., Washington DC or Vancouver)
+
+Wait 5–15 minutes for ServiceNow to provision your instance
+
+You’ll receive a link like https://devxxxx.service-now.com/ — bookmark it!
+
+## Explore the Developer Site
+
+Go to the "Learning" tab → Choose Learning Plans
+
+Start with "System Administrator Learning Plan"
+
+Bookmark your progress tracker for daily use
+
+---
