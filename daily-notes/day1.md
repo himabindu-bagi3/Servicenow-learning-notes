@@ -29,6 +29,12 @@
 
 ---
 
+## ✅ Tasks Done
+- Signed up for Developer Instance
+- Explored basic navigation
+
+---
+
 ## 📌 Notes to Self
 - Bookmark your instance URL
 - Learn about the difference between Global and Scoped apps
