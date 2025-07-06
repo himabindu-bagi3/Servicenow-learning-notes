@@ -3,7 +3,7 @@
 Welcome! This repository contains my journey of self-learning ServiceNow as part of my reskilling path to become a **ServiceNow Developer**.
 
 ## 📚 About Me
-👤 **Name:** Hima Bindu  
+👤 **Name:** Himabindu Bagi  
 🎯 **Goal:** Get a ServiceNow Developer job after completing hands-on training by August 2025.  
 💻 **Learning Mode:** Self-paced with free resources, videos, and hands-on practice.  
 
