@@ -44,7 +44,7 @@
 
 ## Create a Free ServiceNow Developer Account
 
-Go to developer.servicenow.com
+Go to [developer.servicenow.com](https://developer.servicenow.com/dev.do)
 
 Click on Register (if new) or Sign In (if already registered)
 
@@ -52,7 +52,7 @@ Fill in your basic details (email, name, etc.)
 
 Verify your email and activate your account
 
-Request Your Personal Developer Instance (PDI)
+## Request Your Personal Developer Instance (PDI)
 
 After logging in, go to the "Manage" tab at the top right
 
@@ -71,3 +71,14 @@ Start with "System Administrator Learning Plan"
 Bookmark your progress tracker for daily use
 
 ---
+## Watch These Videos to Understand the Platform Setup
+
+[How to Create ServiceNow Developer Account & Instance | Basico Learning](https://www.youtube.com/watch?v=eqnFxojR2n4)
+
+[ServiceNow Personal Developer Instance Setup | SNowBytes](https://www.youtube.com/watch?v=HFlmSwRsn9o)
+
+## Documentation for Reference
+
+Official Docs: [Getting Started with ServiceNow](https://developer.servicenow.com/dev.do#!/learn/learning-plans/yokohama/new_to_servicenow/app_store_learnv2_new_to_servicenow_yokohama_getting_started)
+
+ServiceNow Product Docs: [https://docs.servicenow.com](https://www.servicenow.com/docs/)
